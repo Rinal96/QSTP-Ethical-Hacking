@@ -1,0 +1,19 @@
+We will refer these two online courses to understand cryptography:
+	Cryptography 1 – Stanford (Coursera)
+	Applied Cryptography – Udacity
+
+Weekly Schedule:
+Week 1
+	What is Cryptography?
+	Some old ciphers
+Week 2
+	Stream Ciphers
+Week 3
+	Block Ciphers
+	AES & DES
+Week 4
+	RSA Cryptosystem
+Week 5
+	Key exchange
+
+If you think that you need something more to learn after we complete till here, we’ll add some more topics and solve some assignments.
