@@ -1,21 +1,39 @@
-Week 1
-	->Intro to Cyber Security
-		//To be written
+Week 1 (17th May 2016 - 22nd May 2016)
+
 	->Need for cyber security
-		//To be written
+		You will find ample content online.
+
 	->Disclaimer
-		//To be written
+		If you get caught doing something that you are not supposed to do, then we don't know you :P
+
 	->Cyber Security laws in the Indian Constitution
 		Indian IT ACT 2000
 			https://en.wikipedia.org/wiki/Information_Technology_Act,_2000
 			http://www.dot.gov.in/sites/default/files/itbill2000_0.pdf
 		IT Amendment Bill 2008
 			http://www.tifrh.res.in/tcis/events/facilities/IT_act_2008.pdf
+		
+		You can read the entire Act if you wish to. But atleast go over the wiki page so that you have a decent idea of the laws that you are not supposed to break.
 
 	->Cyber security laws in the BITS constitution
-	->OWASP
-	->Various domains we will look into
+		https://swd.bits-goa.ac.in/Notices/Indiscipline_cases%20guidelines.pdf
+		Please refrain from messing around with the Bits network. It can put you into serious trouble.
+
+	->OWASP top 10
+		If you intend to make a career in this field, then cram this piece of crap, even if you don't understand it. It is a standard interview question. You should have a decent idea of all the vulnerabilities listed in OWASP top 10.
+		https://www.owasp.org/index.php/Top_10_2013-Top_10
+
+	->Domains we will look into during the course
+		Cryptography
+		Web Hacking
+		Network Exploits
+
 	->History/ Popular Hacks
+		https://en.wikipedia.org/wiki/List_of_cyber-attacks
+		Read about various prominent attacks and hacking groups in the history. If you find something interesting then post it on the forum. Personally, I would suggest reading about Stuxnet. 
+		
+		Read about Botnets, rootkits, D-DOS attack, Heartbleed attack, honeypots. 
+		  
 
 Week 2
 	Installing Virtual box
