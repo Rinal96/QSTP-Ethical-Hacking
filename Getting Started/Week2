@@ -1,0 +1,17 @@
+Week 2
+	
+	-> Install Kali linux
+		Whether you want to dual boot or use a usb bootable pen drive or run in a virtual machine is entirely your choice. By the end of the week, you should have Kali up and running. For any queries regarding this, use the forum on this website for discussion. I would recommend using this forum over whatsapp because it is easier to manage discussions and come back to them later.
+ 
+	-> Set up a web server on your local machine.
+		You have been given xampp in the qstp folder. Google how to set up a web server using xampp.  
+			
+	-> Now that you know how to set up a server, set up the DVWA suite on your server that has been given to you. We will be doing a lot of testing on this. 
+		https://www.youtube.com/watch?v=cHMisMCZhMk
+
+	-> Information gathering
+		It is extremely important that you spend decent amount of time, gathering information about the system that you plan to compromise. There is a book in the qstp folder 'Ethical Hacking and Penetration Testing'. Read the third chapter from this book and spend some time playing with the tools that have been presented to you.
+
+	-> I have uploaded an excel sheet which contains your team details along with your mentors. Register on the website www.ctftime.org as a team. It has a list of all ethical hacking competitions that happen around the world. I am not suggesting that you participate in any of them as of now. You can if you wish to. By the end of the course you people will be participating in all of them.  
+
+//If you want more work then pm your mentors.
